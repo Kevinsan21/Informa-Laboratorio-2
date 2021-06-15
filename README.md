@@ -9,9 +9,12 @@
 
 # 1.OBJETIVOS
 
-.Estudiar 
-.Desarrollar la practica planteada para comprender como interactuan en los circuitos de analisis de mallas
-.Identificar  y aplicar los conocimientos adquiridos en  el Analisis de Malllas .
+
+.Desarrollar la practica planteada para comprender como modifican las mallas en los circuitos y que beneficio
+se puede obtener a comparracion de los anteriores temas estudiados.
+
+.Identificar  y aplicar los conocimientos adquiridos en  el Analisis de Malllas.
+
 # 2.MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/84421020/121976434-6e31db80-cd49-11eb-97b2-d04f66b3c285.png)
@@ -23,9 +26,14 @@
 # 3.EXPLICACION DE PROCEDIMIENTO 
 
 
-# 4.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
-# 5.VIDEO
+# 4.VIDEO
 
-# 6.CONCLUSIONES 
+# 5.CONCLUSIONES 
+.Se obtuvo un aprendizaje significativo del tema ya que en el analisis expuesto se comprendio de manera acertiva 
+como el analisis de mallas ayuda de una manera muy significativa a determinar la tension o la corriente de cualquier 
+elemento de un circuito electrico, esta tecnica esta basada en la leyes de Kirchhoff.
 
+# 6.Bibliografias
+
+Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
