@@ -10,7 +10,8 @@
 # 1.OBJETIVOS
 
 .Estudiar 
-
+.Desarrollar la practica planteada para comprender como interactuan en los circuitos de analisis de mallas
+.Identificar  y aplicar los conocimientos adquiridos en  el Analisis de Malllas .
 # 2.MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/84421020/121976434-6e31db80-cd49-11eb-97b2-d04f66b3c285.png)
