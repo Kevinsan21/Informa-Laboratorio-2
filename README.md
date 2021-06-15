@@ -9,6 +9,7 @@
 
 # 1.OBJETIVOS
 
+.Estudiar 
 
 # 2.MARCO TEORICO
 
