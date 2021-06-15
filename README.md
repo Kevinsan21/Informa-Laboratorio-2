@@ -24,9 +24,9 @@ se puede obtener a comparracion de los anteriores temas estudiados.
 
 
 # 3.EXPLICACION DE PROCEDIMIENTO 
-https://github.com/Kevinsan21/Imagenes/blob/main/MALLA1.jpg
-https://github.com/Kevinsan21/Imagenes/blob/main/MALLA3.jpg
-https://github.com/Kevinsan21/Imagenes/blob/main/MALLA3.1.jpg
+![](https://github.com/Kevinsan21/Imagenes/blob/main/MALLA1.jpg)
+![](https://github.com/Kevinsan21/Imagenes/blob/main/MALLA3.jpg)
+![](https://github.com/Kevinsan21/Imagenes/blob/main/MALLA3.1.jpg)
 
 # 4.VIDEO
 
