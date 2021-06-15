@@ -29,7 +29,7 @@ se puede obtener a comparracion de los anteriores temas estudiados.
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/MALLA3.1.jpg)
 
 # 4.VIDEO
-
+https://www.youtube.com/watch?v=9WZC4HWWMoY
 # 5.CONCLUSIONES 
 .Se obtuvo un aprendizaje significativo del tema ya que en el analisis expuesto se comprendio de manera acertiva 
 como el analisis de mallas ayuda de una manera muy significativa a determinar la tension o la corriente de cualquier 
